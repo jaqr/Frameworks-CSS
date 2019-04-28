@@ -1,0 +1,11 @@
+H1 {
+  font-family: sans-serif;
+}
+
+body {
+  background-image: url(../img/relax-fondo.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: top left;
+}
